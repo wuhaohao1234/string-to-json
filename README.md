@@ -252,3 +252,23 @@ module.exports = {extends: ['@commitlint/config-conventional']}
 ```
  "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
 ```
+
+参考: https://github.com/wuhaohao1234/learncommitizen-
+
+### 后期
+
+1. 这里包括开源项目发布到npm
+
+https://my.oschina.net/fenying/blog/1607571
+
+2. 使用持续集成
+
+jekins 
+
+travis-ci 
+
+circle-ci 
+
+github 
+
+actions
